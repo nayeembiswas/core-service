@@ -1,0 +1,19 @@
+spring:
+  jackson:
+    serialization:
+      write-dates-as-timestamps: true
+      fail-on-empty-beans: false
+    deserialization:
+      fail-on-unknown-properties: false
+  main:
+    allow-bean-definition-overriding: true
+
+
+service:
+  properties:
+    version: v1.0
+    terms-of-service-url: http://swagger.io/terms/
+    license-name: Apache 2.0
+    license-url: http://springdoc.org
+
+
