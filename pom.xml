@@ -8,7 +8,7 @@
 		<version>2.6.4</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.sn.textile</groupId>
+	<groupId>com.github.core-service</groupId>
 	<artifactId>core-service</artifactId>
 	<version>0.0.1</version>
 	<name>core-service</name>
